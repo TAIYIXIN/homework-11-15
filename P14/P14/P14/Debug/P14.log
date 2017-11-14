@@ -1,0 +1,22 @@
+﻿已經開始建置於 2017/11/12 下午 09:05:03。
+     1>節點 2 (Build 目標) 上的專案 "D:\c_code\homework\11月15號Homework\P14\P14\P14\P14.vcxproj"。
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(357,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+     1>ClCompile:
+         D:\visual\VC\bin\CL.exe /c /I"D:\c_code\homework\11月15號Homework\P14\include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\source\P14.c
+         P14.c
+     1>d:\c_code\homework\11月15號homework\p14\source\p14.c(16): warning C4013: 'printfArray' 未定義; 假設 extern 傳回整數
+     1>d:\c_code\homework\11月15號homework\p14\source\p14.c(44): error C2143: 語法錯誤 : 遺漏 ';' (在 '{' 之前)
+     1>d:\c_code\homework\11月15號homework\p14\source\p14.c(54): error C2166: 左值 (l-value) 指定 const 物件
+     1>d:\c_code\homework\11月15號homework\p14\source\p14.c(61): error C2143: 語法錯誤 : 遺漏 ';' (在 '{' 之前)
+     1>d:\c_code\homework\11月15號homework\p14\source\p14.c(66): error C2065: 'setofgrades' : 未宣告的識別項
+     1>d:\c_code\homework\11月15號homework\p14\source\p14.c(66): error C2065: 'test' : 未宣告的識別項
+     1>d:\c_code\homework\11月15號homework\p14\source\p14.c(66): error C2109: 註標必須使用在陣列或指標類型上
+     1>d:\c_code\homework\11月15號homework\p14\source\p14.c(68): error C2065: 'test' : 未宣告的識別項
+     1>d:\c_code\homework\11月15號homework\p14\source\p14.c(68): warning C4244: 'return' : 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+     1>d:\c_code\homework\11月15號homework\p14\source\p14.c(71): error C2143: 語法錯誤 : 遺漏 ';' (在 '{' 之前)
+     1>d:\c_code\homework\11月15號homework\p14\source\p14.c(87): fatal error C1075: 與左大括號 '{'對應之前遇到檔案的結尾 (位於 'd:\c_code\homework\11月15號homework\p14\source\p14.c(28)')
+     1>專案 "D:\c_code\homework\11月15號Homework\P14\P14\P14\P14.vcxproj" (Build 目標) 建置完成 -- 失敗。
+
+建置失敗。
+
+經過時間 00:00:00.69
